@@ -3,8 +3,8 @@
     "rules":{
       "linebreak-style": 0,
       "space-infix-ops": "error",
-      "space-unary-ops": ["error", { "words": true, "nonwords": false }]
-
+      "space-unary-ops": ["error", { "words": true, "nonwords": false }],
+      "no-unused-vars": [2, {"vars": "all", "varsIgnorePattern": "[iI]gnored"}]
 
     }
 
