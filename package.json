@@ -1,0 +1,24 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "Biblioteca do curso JS com TDD na prática",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamiresslelis/js.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Tamires Lelis <tamiresslelis@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tamiresslelis/js/issues"
+  },
+  "homepage": "https://github.com/tamiresslelis/js#readme"
+}
